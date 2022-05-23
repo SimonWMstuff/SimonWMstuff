@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimonWMstuff
 - 👀 I’m interested in NHS data, applying data science and automating the boring stuff
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me simon.wellesley-miller@nhs.net 
 
 <!---
